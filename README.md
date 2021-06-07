@@ -11,4 +11,4 @@ Sleep Well; sleep feedback system by real-time estimating sleeping posture
 ## Final Demo Video
 
 
-[![Video Label](http://img.youtube.com/vi/ubD-JW8B6OM&ab_channel=%EC%B0%BD%EC%9D%98%EC%84%A4%EA%B3%84/0.jpg)](https://www.youtube.com/watch?v=ubD-JW8B6OM&ab_channel=%EC%B0%BD%EC%9D%98%EC%84%A4%EA%B3%84)
+[![Video Label](https://img.youtube.com/vi/ubD-JW8B6OM/0.jpg)](https://www.youtube.com/watch?v=ubD-JW8B6OM&ab_channel=%EC%B0%BD%EC%9D%98%EC%84%A4%EA%B3%84)
